@@ -1,5 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Mateus
 
+💻 Fullstack Developer focused on building scalable and maintainable web applications.
+
+- ⚙️ Tech stack: Vue.js (2 & 3), Next.js, TypeScript, JavaScript, HTML, CSS  
+- 🧩 Tools & frameworks: Element Plus, Bootstrap, Firebase, GitHub Actions  
+- 🧠 Background in Design (B.A. Mackenzie, 2023) + Postgraduate in Systems Analysis (FIAP)  
+- 🚀 Experience with Java & SQL using Docker-based environments  
+- 🌍 Open to remote opportunities worldwide  
+
+📫 Let's connect: [LinkedIn](https://linkedin.com/in/SEU-USUARIO)
 <!--
 **MateusDuraessantos/MateusDuraessantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
