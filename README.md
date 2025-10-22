@@ -3,8 +3,7 @@
 
 <div align="center">
   <img alt="GitHub Profile Summary" width="952em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MateusDuraessantos&theme=github_dark" />
-  <img alt="GitHub Stats" width="476em" height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusDuraessantos&show_icons=true&hide=prs,issues&theme=github_dark&count_private=true" />
-  <img alt="Top Languages" width="476em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDuraessantos&layout=compact&langs_count=8&theme=github_dark"/>
+  <img alt="Top Languages" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDuraessantos&layout=compact&langs_count=8&theme=github_dark"/>
 </div>
 
 <br>
